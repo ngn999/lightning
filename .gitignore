@@ -91,3 +91,6 @@ release/
 
 # Ignore release verification Sha256Sums
 SHA256SUMS-*
+
+# envrc
+.direnv/
